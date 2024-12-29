@@ -153,7 +153,7 @@ p.note { display: none; }
 <a href="20241227home_009.JPG" target="_blank"><img src="20241227home_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227home_010.JPG" target="_blank"><img src="20241227home_010.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">広い庭を挟むので、隣家との弊も低いまま</span></h2>
+<h2><span class="yellow">広い庭を挟むので、隣家との塀も低いまま</span></h2>
 <a href="20241227home_011.JPG" target="_blank"><img src="20241227home_011.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">塀の手前が畑になってます</span></h2>
