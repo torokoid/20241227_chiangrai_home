@@ -128,18 +128,55 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">今回の訪問先は同級生ご夫婦の一般的なお宅<br>画像のクリックでGoogleMapsに飛びます</span></h2>
+<h2><span class="yellow">今回の訪問先は同級生ご夫婦の一般的なお宅<br>GoogleMapsでは直近の場所まで行けないので最寄りの幹線道路まで</span></h2>
 
-<a href="https://www.google.com/maps/place/サオヒンパヤーナーク洞窟/@21.3681363,95.9928038,5.96z/data=!4m6!3m5!1s0x30d6f60c4b18046b:0x4584a732f213e275!8m2!3d20.3248697!4d99.8662879!16s%2Fg%2F11g9ntp990!5m1!1e2?authuser=0&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241227_001.png" alt="サンプル画像" width="900" /></a>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1735473194755!6m8!1m7!1s-cU5ktV2hlMwU5lKrgO1bA!2m2!1d20.33267394375986!2d99.88078502412826!3f24.264312769839684!4f-20.523663652558938!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 
 <h2><span class="yellow">市内の煩雑さから一歩遠ざかった、閑静な田園地帯に隣接する住宅地</span></h2>
 
+<a href="20241227home_001.JPG" target="_blank"><img src="20241227home_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_002.JPG" target="_blank"><img src="20241227home_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_003.JPG" target="_blank"><img src="20241227home_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_004.JPG" target="_blank"><img src="20241227home_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_005.JPG" target="_blank"><img src="20241227home_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_006.JPG" target="_blank"><img src="20241227home_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_007.JPG" target="_blank"><img src="20241227home_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_008.JPG" target="_blank"><img src="20241227home_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_009.JPG" target="_blank"><img src="20241227home_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_010.JPG" target="_blank"><img src="20241227home_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_011.JPG" target="_blank"><img src="20241227home_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_012.JPG" target="_blank"><img src="20241227home_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_013.JPG" target="_blank"><img src="20241227home_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_014.JPG" target="_blank"><img src="20241227home_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_015.JPG" target="_blank"><img src="20241227home_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_016.JPG" target="_blank"><img src="20241227home_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_017.JPG" target="_blank"><img src="20241227home_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_018.JPG" target="_blank"><img src="20241227home_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_019.JPG" target="_blank"><img src="20241227home_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_020.JPG" target="_blank"><img src="20241227home_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_021.JPG" target="_blank"><img src="20241227home_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_022.JPG" target="_blank"><img src="20241227home_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_023.JPG" target="_blank"><img src="20241227home_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_024.JPG" target="_blank"><img src="20241227home_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_025.JPG" target="_blank"><img src="20241227home_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_026.JPG" target="_blank"><img src="20241227home_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_027.JPG" target="_blank"><img src="20241227home_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_028.JPG" target="_blank"><img src="20241227home_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_029.JPG" target="_blank"><img src="20241227home_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_030.JPG" target="_blank"><img src="20241227home_030.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_031.JPG" target="_blank"><img src="20241227home_031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_032.JPG" target="_blank"><img src="20241227home_032.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_033.JPG" target="_blank"><img src="20241227home_033.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_034.JPG" target="_blank"><img src="20241227home_034.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_035.JPG" target="_blank"><img src="20241227home_035.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_036.JPG" target="_blank"><img src="20241227home_036.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_037.JPG" target="_blank"><img src="20241227home_037.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241227home_038.JPG" target="_blank"><img src="20241227home_038.JPG" alt="サンプル画像" width="900" /></a>
 
 
-
-
+<br><br><br>
 
 
 <h2><span class="yellow">
