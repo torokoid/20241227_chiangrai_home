@@ -122,7 +122,7 @@ p.note { display: none; }
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2024/12/27 、メーチャン市内の一般的なご家庭を訪問 !!!</marquee></span></h1>
 
-
+<h2><span class="yellow">タイの地方都市のお宅は、日本とは比較にならないほどの敷地面積を確保しています</span></h2>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -134,23 +134,37 @@ p.note { display: none; }
 
 
 
-<h2><span class="yellow">市内の煩雑さから一歩遠ざかった、閑静な田園地帯に隣接する住宅地</span></h2>
+<h2><span class="yellow">市内の煩雑さから一歩遠ざかった、閑静な田園地帯に隣接する住宅地<br>農耕エリアの向こうには山岳エリアが迫っています</span></h2>
 
 <a href="20241227home_001.JPG" target="_blank"><img src="20241227home_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227home_002.JPG" target="_blank"><img src="20241227home_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227home_003.JPG" target="_blank"><img src="20241227home_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227home_004.JPG" target="_blank"><img src="20241227home_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227home_005.JPG" target="_blank"><img src="20241227home_005.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">最高の眺めに背を向けてこの道を戻ると住宅エリア</span></h2>
 <a href="20241227home_006.JPG" target="_blank"><img src="20241227home_006.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">敷地の広さを生かして、庭造り</span></h2>
 <a href="20241227home_007.JPG" target="_blank"><img src="20241227home_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227home_008.JPG" target="_blank"><img src="20241227home_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227home_009.JPG" target="_blank"><img src="20241227home_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227home_010.JPG" target="_blank"><img src="20241227home_010.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">広い庭を挟むので、隣家との弊も低いまま</span></h2>
 <a href="20241227home_011.JPG" target="_blank"><img src="20241227home_011.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">塀の手前が畑になってます</span></h2>
 <a href="20241227home_012.JPG" target="_blank"><img src="20241227home_012.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227home_013.JPG" target="_blank"><img src="20241227home_013.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">移動手段はサイドカー付きの原付（荷物は運ばないので、転倒リスク回避！？）</span></h2>
 <a href="20241227home_014.JPG" target="_blank"><img src="20241227home_014.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">生活の質が高そう、PCなどの余計なものがありません</span></h2>
 <a href="20241227home_015.JPG" target="_blank"><img src="20241227home_015.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">熱帯特有？のハンモック</span></h2>
 <a href="20241227home_016.JPG" target="_blank"><img src="20241227home_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227home_017.JPG" target="_blank"><img src="20241227home_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227home_018.JPG" target="_blank"><img src="20241227home_018.JPG" alt="サンプル画像" width="900" /></a>
