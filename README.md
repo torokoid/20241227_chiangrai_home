@@ -215,8 +215,11 @@ p.note { display: none; }
 <h2><span class="yellow">冬の季節は夕焼けが綺麗でした</span></h2>
 <a href="20241227home_038.JPG" target="_blank"><img src="20241227home_038.JPG" alt="サンプル画像" width="900" /></a>
 
-
 <br><br><br>
+
+<h2><span class="yellow">ちなみにセルラー通信は５Gでつながりました</span></h2>
+
+<br><br><br><br><br><br>
 
 
 <h2><span class="yellow">
