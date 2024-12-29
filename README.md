@@ -139,6 +139,8 @@ p.note { display: none; }
 <a href="20241227home_001.JPG" target="_blank"><img src="20241227home_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227home_002.JPG" target="_blank"><img src="20241227home_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227home_003.JPG" target="_blank"><img src="20241227home_003.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">女性の寝姿を横から見ているとたとえられている山々</span></h2>
 <a href="20241227home_004.JPG" target="_blank"><img src="20241227home_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227home_005.JPG" target="_blank"><img src="20241227home_005.JPG" alt="サンプル画像" width="900" /></a>
 
@@ -166,13 +168,25 @@ p.note { display: none; }
 
 <h2><span class="yellow">熱帯特有？のハンモック</span></h2>
 <a href="20241227home_016.JPG" target="_blank"><img src="20241227home_016.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">おでこから鼻、顎にかけてのシルエット</span></h2>
 <a href="20241227home_017.JPG" target="_blank"><img src="20241227home_017.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">トイレに飾られた額</span></h2>
 <a href="20241227home_018.JPG" target="_blank"><img src="20241227home_018.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">トイレとシャワールーム、熱帯なので外気と通通</span></h2>
 <a href="20241227home_019.JPG" target="_blank"><img src="20241227home_019.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">こちらも外気と通通の台所と食堂</span></h2>
 <a href="20241227home_020.JPG" target="_blank"><img src="20241227home_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227home_021.JPG" target="_blank"><img src="20241227home_021.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">庭さきにスズメバチの巣がありますが、お互いに無干渉を通して実害なし</span></h2>
 <a href="20241227home_022.JPG" target="_blank"><img src="20241227home_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227home_023.JPG" target="_blank"><img src="20241227home_023.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">食堂の外側はお花畑状態</span></h2>
 <a href="20241227home_024.JPG" target="_blank"><img src="20241227home_024.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227home_025.JPG" target="_blank"><img src="20241227home_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227home_026.JPG" target="_blank"><img src="20241227home_026.JPG" alt="サンプル画像" width="900" /></a>
@@ -180,13 +194,25 @@ p.note { display: none; }
 <a href="20241227home_028.JPG" target="_blank"><img src="20241227home_028.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227home_029.JPG" target="_blank"><img src="20241227home_029.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227home_030.JPG" target="_blank"><img src="20241227home_030.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">仏壇は綺麗に祀られていました</span></h2>
 <a href="20241227home_031.JPG" target="_blank"><img src="20241227home_031.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227home_032.JPG" target="_blank"><img src="20241227home_032.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227home_033.JPG" target="_blank"><img src="20241227home_033.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">猫ちゃん</span></h2>
 <a href="20241227home_034.JPG" target="_blank"><img src="20241227home_034.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">車はISUZUとHONDA、このほかにTOYOTAがあるようです</span></h2>
 <a href="20241227home_035.JPG" target="_blank"><img src="20241227home_035.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">この建屋が居間と寝室、トイレ＆シャワールーム</span></h2>
 <a href="20241227home_036.JPG" target="_blank"><img src="20241227home_036.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">先ほどの食堂とは別の軽食＆くつろぎエリア、大画面TVは屋外にも設置</span></h2>
 <a href="20241227home_037.JPG" target="_blank"><img src="20241227home_037.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">冬の季節は夕焼けが綺麗でした</span></h2>
 <a href="20241227home_038.JPG" target="_blank"><img src="20241227home_038.JPG" alt="サンプル画像" width="900" /></a>
 
 
