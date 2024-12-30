@@ -134,7 +134,7 @@ p.note { display: none; }
 
 
 
-<h2><span class="yellow">市内の煩雑さから一歩遠ざかった、閑静な田園地帯に隣接する住宅地<br>農耕エリアの向こうには山岳エリアが迫っています</span></h2>
+<h2><span class="yellow">市内の煩雑さから一歩遠ざかった、閑静な田園地帯に隣接する住宅地<br>農耕エリアの向こうには国境を形成する山岳エリアが迫っています</span></h2>
 
 <a href="20241227home_001.JPG" target="_blank"><img src="20241227home_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241227home_002.JPG" target="_blank"><img src="20241227home_002.JPG" alt="サンプル画像" width="900" /></a>
